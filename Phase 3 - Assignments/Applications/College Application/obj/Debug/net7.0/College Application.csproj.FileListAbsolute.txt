@@ -1,0 +1,15 @@
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\bin\Debug\net7.0\College Application.exe
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\bin\Debug\net7.0\College Application.deps.json
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\bin\Debug\net7.0\College Application.runtimeconfig.json
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\bin\Debug\net7.0\College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\bin\Debug\net7.0\College Application.pdb
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.csproj.AssemblyReference.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.AssemblyInfoInputs.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.AssemblyInfo.cs
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.csproj.CoreCompileInputs.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\refint\College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.pdb
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\College Application.genruntimeconfig.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\College Application\obj\Debug\net7.0\ref\College Application.dll

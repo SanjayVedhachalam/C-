@@ -1,0 +1,26 @@
+using System;
+
+namespace Assignment1
+{
+    public class Dog : IAnimal
+    {
+        public string Name { get ; set ; }
+        public string Habitat { get ; set ; }
+        public string EatingHabit { get ; set; }
+        public Dog(string name,string habitat,string eatingHabit){
+            Name=name;
+            Habitat=habitat;
+            EatingHabit=eatingHabit;
+        }
+
+        public void DisplayName()
+        {
+            System.Console.WriteLine($"Dog Name: {Name}");
+        }
+        public void DisplayInfo(){
+            DisplayName();
+            System.Console.WriteLine($"Dog Habitat: {Habitat}");
+            System.Console.WriteLine($"Dog Eating Habit: {EatingHabit}");
+        }
+    }
+}

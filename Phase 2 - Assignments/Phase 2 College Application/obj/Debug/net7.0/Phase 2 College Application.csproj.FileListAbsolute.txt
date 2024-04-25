@@ -1,0 +1,15 @@
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\bin\Debug\net7.0\Phase 2 College Application.exe
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\bin\Debug\net7.0\Phase 2 College Application.deps.json
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\bin\Debug\net7.0\Phase 2 College Application.runtimeconfig.json
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\bin\Debug\net7.0\Phase 2 College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\bin\Debug\net7.0\Phase 2 College Application.pdb
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.csproj.AssemblyReference.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.AssemblyInfoInputs.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.AssemblyInfo.cs
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.csproj.CoreCompileInputs.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\refint\Phase 2 College Application.dll
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.pdb
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\Phase 2 College Application.genruntimeconfig.cache
+C:\Users\SanjayVedhachalam\OneDrive - Syncfusion\Desktop\Practices\Phase 2 College Application\obj\Debug\net7.0\ref\Phase 2 College Application.dll
